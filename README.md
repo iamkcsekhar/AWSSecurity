@@ -19,6 +19,9 @@ https://www.linkedin.com/posts/chandrastack_quickbytes-awssecurity-aws-activity-
 
 
 Community blogs:
+
 https://blog.cloudnloud.com/is-cloud-computing-a-technology-or-a-business-enabler
+
 https://blog.cloudnloud.com/uber-cyberattack-lessons-and-retrospective-analysis-part-1
+
 https://blog.cloudnloud.com/the-hidden-risks-of-cloud-computing-amplifying-cloud-security-concepts
