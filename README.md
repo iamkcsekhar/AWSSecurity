@@ -19,6 +19,9 @@ https://www.linkedin.com/posts/chandrastack_quickbytes-awssecurity-aws-activity-
 #### 𝐀𝐖𝐒 𝐊𝐞𝐲 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 (𝐊𝐌𝐒):
 https://www.linkedin.com/posts/chandrastack_quickbytes-awssecurity-aws-activity-7013460500541816832-G0Lj?utm_source=share&utm_medium=member_desktop
 
+#### AWS Security Data Lake
+https://www.linkedin.com/feed/update/urn:li:activity:7003580677161984001/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7003580677161984001%29
+
 
 Community blogs:
 
